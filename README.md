@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Web-Technologies**
 
-- 📝 I regularly write articles on [https://sangramcodes.hashnode.dev/](https://sangramcodes.hashnode.dev/)
+- 📝 I write articles on [https://sangramcodes.hashnode.dev/](https://sangramcodes.hashnode.dev/)
 
 - 📫 How to reach me **sangramkarthik@outlook.com**
 
